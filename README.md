@@ -8,8 +8,8 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01
 <h2>Modelo de previsão e pontos de extremidade</h2>
 Neste trabalho o melhor modelo foi VotingEnsemble coforme mostrado a seguir.
 
-<img src="Imagens/AzureML-1.png">
-<img src="Imagens/AzureML-2.png">
+<img src="Imagens/AzureML-1.GIF">
+<img src="Imagens/AzureML-2.GIF">
 
 O teste do ponto de extremidade utilizado foi o seguinte:
 <pre>
@@ -45,4 +45,4 @@ E o resultado foi o seguinte:
   }
 </pre>
 
-<img src="Imagens/AzureML-3.png">
+<img src="Imagens/AzureML-3.GIF">
